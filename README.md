@@ -5,8 +5,8 @@ A Computer Science student in Applied Science University, intersted in <h5>Cyber
 🌱 As for front-end i am learning more JS and ReactJS.
 💬 Ask me about how to be a good developer.
 📫 You can Reach me at:
-  - <a href="https://www.linkedin.com/in/omar-eses-b68b151a9/">LinkedIn</a>
-  - <a href="https://www.facebook.com/omar.isis/">Facebook</a>
+  :link: <a href="https://www.linkedin.com/in/omar-eses-b68b151a9/">LinkedIn</a>
+  :link: <a href="https://www.facebook.com/omar.isis/">Facebook</a>
 <!--
 **Omar-Eses/Omar-Eses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
