@@ -28,7 +28,7 @@ A Computer Science student in Applied Science University, intersted in: <h5>Cybe
 
 📫 You can Reach me at:
 <p>
-  <a href = "mailto: esesomar01@gmail.com">
+  <a href = "mailto: esesomar01@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/omar-eses-b68b151a9/" target="_blank">
