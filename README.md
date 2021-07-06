@@ -35,7 +35,10 @@ A Computer Science student in Applied Science University, intersted in: <h5>Cybe
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
 </p>
-<p> Developer profiles
+<p> Developer profiles <br>
+  <a href="https://stackoverflow.com/users/13444692/omar-eses">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
   <a href="https://www.hackerrank.com/esesomar01" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
