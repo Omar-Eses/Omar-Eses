@@ -8,7 +8,7 @@ A Computer Science student in Applied Science University, intersted in: <h5>Cybe
 🌱 As for front-end i am learning more JS and ReactJS.
 </p>
 <p>
-I have worked || working on: <hr>
+I have worked || working on: <br>
 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
