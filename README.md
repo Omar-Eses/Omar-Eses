@@ -1,5 +1,5 @@
 ### Hi there 👋
-A Computer Science student in Applied Science University, intersted in: <h5>Cyber Security, Game Dev & Data Science</h5>.
+A Computer Science student in Applied Science University, intersted in: <h5>Cyber Security, Game Dev & Data Science.</h5>
 <p>
 🔭 I’m currently working on building JavaSE projects.
 
@@ -9,10 +9,11 @@ A Computer Science student in Applied Science University, intersted in: <h5>Cybe
 </p>
 <p>
 I have worked || working on: <br>
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  I have worked on <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>.<br>
+  now I am working on making more projects with <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> SE & learning EE.<br>
+  Learning <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> for web with:<br>
+    - <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/><br>
+    - <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/><br>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 </p>
 💬 Ask me about how to be a good developer.
