@@ -1,5 +1,6 @@
 ### Hi there 👋
 A Computer Science student in Applied Science University, intersted in <h5>Cyber Security, Game Dev & Data Science</h5>.
+
 🔭 I’m currently working on building JavaSE projects.
 
 🌱 I’m currently learning Python for Back-end technology and next will be Php, Java2EE.
