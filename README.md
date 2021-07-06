@@ -7,7 +7,7 @@ A Computer Science student in Applied Science University, intersted in: <h5>Cybe
 
 🌱 As for front-end i am learning more JS and ReactJS.
 </p>
-### My github will have good repos with the following 
+<h3> My github will have good repos with the following: </h3> 
 <p>
   I am working with || learning: <br>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
