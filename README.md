@@ -26,6 +26,9 @@ I have worked || working on: <br>
 <a href="https://www.facebook.com/omar.isis/">
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
+<a href="https://www.hackerrank.com/esesomar01">
+  <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
 <!--
 **Omar-Eses/Omar-Eses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
