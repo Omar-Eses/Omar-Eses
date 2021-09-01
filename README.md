@@ -1,6 +1,7 @@
 ### Hi there 👋
 <p> I am a Computer Science student from Jordan. Interested in Cyber Security, Game Dev & Data Science.
-  Currently aiming to be a full-stack developer, enhance my problem solving skills, and to build more projects.
+  Currently aiming to: be a Back-end developer, <pre>enhance my problem solving skills</pre>, and to build more projects.
+  
 </p>
 <p>
   I have worked with: <br>
@@ -16,7 +17,6 @@
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>  
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br>
 </p>
-💬 Ask me about a good developer roadmap.
 
 📫 You can Reach me at:
 <p>
