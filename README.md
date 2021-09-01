@@ -1,17 +1,7 @@
 ### Hi there 👋
-A Computer Science student in Applied Science University, intersted in: <h5>Cyber Security, Game Dev & Data Science.</h5>
-<p>
-🔭🌱 Learning more Java.
-
-🌱 enhancing Problem Solving skills. 
-
-🌱 I’m currently learning Python for Back-end technology and next will be Php, Java2EE.
-
-🌱 As for front-end i am learning more JS and ReactJS.
-  
-🔭 Aiming to be a 
+<p> I am a Computer Science student from Jordan. Interested in Cyber Security, Game Dev & Data Science.
+  Currently aiming to be a full-stack developer, enhance my problem solving skills, and to build more projects.
 </p>
-<h3> My github will have good repos with the following: </h3> 
 <p>
   I have worked with: <br>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -43,11 +33,7 @@ A Computer Science student in Applied Science University, intersted in: <h5>Cybe
 <p> Developer profiles <br>
   <a href="https://stackoverflow.com/users/13444692/omar-eses">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/esesomar01" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
-  
+  </a>  
 </p>
 <!--
 **Omar-Eses/Omar-Eses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
