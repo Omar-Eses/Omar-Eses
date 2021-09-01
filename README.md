@@ -1,8 +1,9 @@
 ### Hi there 👋
+<pre>
 <p> I am a Computer Science student from Jordan. Interested in Cyber Security, Game Dev & Data Science.
-  Currently aiming to: be a Back-end developer, <pre>enhance my problem solving skills</pre>, and to build more projects.
-  
+  Currently aiming to: be a Back-end developer, enhance my problem solving skills, and to build more projects.
 </p>
+</pre>
 <p>
   I have worked with: <br>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
