@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I am a Computer Science student from Jordan. Interested in Development, Data Science & AI, Cyber Secuirty and Game development.
+<p>I am a Computer Science student from Jordan. Interested in Development, Data Science & AI, Cyber Security and Game development.
 Currently aiming to: be a Back-end developer, enhance my problem solving skills, and to build more projects.
 </p>
 <p>
