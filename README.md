@@ -1,32 +1,17 @@
-### Hi there 👋
-<p>I am a Computer Science student from Jordan. Interested in Development, Data Science & AI, Cyber Security and Game development.
-Currently aiming to: be a Back-end developer, enhance my problem solving skills, and to build more projects.
-</p>
-<p>
-  I have worked with: <br>
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/> & 
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"><br>
-  I am Working with:<br>
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <br>
-  I am Learning:<br>
-    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>  
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br>
-</p>
+### Hi there 👋 I am Omar Eses
+- 🏫 Computer Science Student at **Applied Science University**
+- 👨‍💻 Interested in **Game Development , Data Science & AI & ML, Competetive Programming**
 
-📫 You can Reach me at:
+📫 Contact with me at: 
 <p>
   <a href = "mailto: esesomar01@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/omar-eses-b68b151a9/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/omar.isis/" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
 <p> Developer profiles <br>
@@ -34,6 +19,10 @@ Currently aiming to: be a Back-end developer, enhance my problem solving skills,
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>  
 </p>
-<!--
-**Omar-Eses/Omar-Eses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p>
+  <h2>Tech Stack</h2>
+  <a href="java.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/></a>
+  <a href="https://www.python.org/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/></a>
+</p>
+<!--**Omar-Eses/Omar-Eses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
