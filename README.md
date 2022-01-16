@@ -41,6 +41,6 @@
   <h2>Learning the following Tech Stack</h2>
   <a href="https://reactjs.org/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="50" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img align="center" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="65" height="50"/></a>
+<!--   <a href="https://spring.io/" target="_blank"><img align="center" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="65" height="50"/></a> -->
 </p>
 <!--**Omar-Eses/Omar-Eses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
