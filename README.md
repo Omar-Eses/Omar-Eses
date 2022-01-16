@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Omar Eses
 - 🏫 Computer Science Student at **Applied Science University**
 - 👨‍💻 Interested in **Game Development , Data Science & AI & ML, Competetive Programming**
-- Developing my: <br>
-  **1. Data Structures & Algortihms skills**<br>
+- 🔭 I’m currently working on<br>
+  **1. Developing my Data Structures & Algortihms skills**<br>
   **2. Learning to contribute to Open source**
 
 📫 Contact with me at: 
