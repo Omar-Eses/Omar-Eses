@@ -13,9 +13,13 @@
   <a href="https://www.linkedin.com/in/omar-eses-b68b151a9/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://twitter.com/EsesOmar1" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
   <a href="https://www.facebook.com/omar.isis/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+  
 </p>
 <p> Developer profiles <br>
   <a href="https://stackoverflow.com/users/13444692/omar-eses">
