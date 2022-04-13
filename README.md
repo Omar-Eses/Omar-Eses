@@ -23,8 +23,11 @@
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
   <a href="https://codeforces.com/profile/esom_01">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+    <img alt="Code Forces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
   </a>
+ <a href="https://www.hackerrank.com/esesomar01">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+ </a>
   <a href="https://www.freecodecamp.org/omar_01">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
   </a>
