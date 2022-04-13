@@ -33,7 +33,7 @@
   <h2>Tech Stack</h2>
   <a href="https://www.cprogramming.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" width="40" height="40"/></a>
-  <a href="java.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="40" height="40"/></a>
+  <a href="java.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"/></a>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40"/></a>
   <a href="https://dart.dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="45" height="45"/></a>
