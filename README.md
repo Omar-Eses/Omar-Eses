@@ -3,7 +3,8 @@
 - 👨‍💻 Interested in **Game Development , Data Science & AI & ML, Competetive Programming**
 - 🔭 I’m currently working on<br>
   **1. Developing my Data Structures & Algortihms skills**<br>
-  **2. Learning to contribute to Open source**
+  **2. Developing problem solving skills**<br>
+  **2. Learning to contribute to Open source **
 
 📫 Contact with me at: 
 <p>
@@ -29,7 +30,7 @@
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
  </a>
   <a href="https://www.freecodecamp.org/omar_01">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+    <img alt="freecodecamp" src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
   </a>
 </p>
 <p>
