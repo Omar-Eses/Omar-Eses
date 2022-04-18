@@ -40,7 +40,6 @@
   <a href="java.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"/></a>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40"/></a>
-  <a href="https://dart.dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="45" height="45"/></a>
 </p>
 <p>
   <h2>Learning the following Tech Stack</h2>
