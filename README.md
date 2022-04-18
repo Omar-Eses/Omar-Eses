@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on<br>
   **1. Developing my Data Structures & Algortihms skills**<br>
   **2. Developing problem solving skills**<br>
-  **2. Learning to contribute to Open source **
+  **3. Learning to contribute to Open source**
 
 📫 Contact with me at: 
 <p>
