@@ -55,7 +55,7 @@
    <img align="center" src="https://www.android.com/static/images/fav/favicon.ico" width="40" height="40"/>
   </a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank">
-   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="40" height="40"/>
+   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="50"height="50"/>
   </a>
 <!--   <a href="https://www.dart.dev/" target="_blank">
    <img align="center" src="https://dart.dev/assets/shared/dart/icon/64.png" width="40" height="40"/>
