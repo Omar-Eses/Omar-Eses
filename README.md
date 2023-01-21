@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Omar Eses
 - 🏫 Computer Science Student at **Applied Science University**
-- 👨‍💻 Interested in **Game Development , Data Science & AI & ML, Competetive Programming**
+- 👨‍💻 Interested in **Android Development, Cloud computing, Data Science & AI & ML, Competetive Programming**
 - 🔭 I’m currently working on<br>
   **1. Developing my Data Structures & Algortihms skills**<br>
   **2. Developing problem solving skills**<br>
@@ -41,20 +41,23 @@
   <a href="https://www.cprogramming.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" width="40" height="40"/></a>
   <a href="java.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="45" height="45"/></a>
   <a href="https://www.python.org/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="45" height="45"/></a>
-  <!--<a href="https://www.dart.dev/" target="_blank">
+  <a href="https://www.dart.dev/" target="_blank">
    <img align="center" src="https://dart.dev/assets/shared/dart/icon/64.png" width="40" height="40"/>
   </a>
   <a href="https://www.flutter.dev/" target="_blank">
    <img align="center" src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" width="40" height="40"/>
   </a>
-  <a href="https://www.javascript.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40"/></a>-->
+<!--   <a href="https://www.javascript.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40"/></a> -->
 </p>
 <p>
   <h2>Learning the following Tech Stack</h2>
   <a href="https://www.android.com/" target="_blank">
    <img align="center" src="https://www.android.com/static/images/fav/favicon.ico" width="40" height="40"/>
   </a>
-  <a href="https://www.dart.dev/" target="_blank">
+  <a href="https://azure.microsoft.com/en-us/" target="_blank">
+   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="40" height="40"/>
+  </a>
+<!--   <a href="https://www.dart.dev/" target="_blank">
    <img align="center" src="https://dart.dev/assets/shared/dart/icon/64.png" width="40" height="40"/>
   </a>
   <a href="https://www.flutter.dev/" target="_blank">
@@ -62,6 +65,6 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank">
    <img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v93aa752e9f55c4cc8215e0e532a81ea927c78afc7539799b3f76c27a68eb319c/firebase/images/favicon.png" width="40" height="40"/>
-  </a>
+  </a> -->
 </p>
 <!--**Omar-Eses/Omar-Eses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
