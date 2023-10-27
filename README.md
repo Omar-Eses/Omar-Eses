@@ -1,13 +1,12 @@
 ## Hi there 👋
-I am <b>Omar Al-Eses</b>, A Computer Science Graduate. Interested in Backend development, Android and Cloud Computing.
+I am <b>Omar Al-Eses</b>, A Computer Science Graduate. Interested in Back-end development, Android development, and Cloud Computing.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar-Eses&show_icons=true&theme=transparent)
 
 - 🏫 Computer Science Student at **Applied Science University**
-- 👨‍💻 Interested in **Android Development, Cloud computing, Data Science & AI & ML, Competetive Programming**
 - 🔭 I’m currently working on<br>
-  **1. Developing my Data Structures & Algortihms skills**<br>
-  **2. Developing problem solving skills**<br>
+  **1. Developing my Data Structures & Algorithms skills**<br>
+  **2. Developing problem-solving skills**<br>
   **3. Learning to contribute to Open source**
 
 📫 Contact with me at: 
