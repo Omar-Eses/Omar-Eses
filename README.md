@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am <b>Omar Al-Eses</b>, A Computer Science Graduate. Interested in Back-end development, Android development, and Cloud Computing.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar-Eses&show_icons=true&theme=transparent)
+![Omar GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar-Eses&show_icons=true&theme=transparent&border_radius=8)
 
 - 🏫 Computer Science Student at **Applied Science University**
 - 🔭 I’m currently working on<br>
@@ -50,24 +50,5 @@ I am <b>Omar Al-Eses</b>, A Computer Science Graduate. Interested in Back-end de
   <a href="https://www.flutter.dev/" target="_blank">
    <img align="center" src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" width="40" height="40"/>
   </a>
-<!--   <a href="https://www.javascript.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40"/></a> -->
 </p>
 <p>
-  <h2>Learning the following Tech Stack</h2>
-  <a href="https://www.android.com/" target="_blank">
-   <img align="center" src="https://www.android.com/static/images/fav/favicon.ico" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-us/" target="_blank">
-   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="50"height="50"/>
-  </a>
-<!--   <a href="https://www.dart.dev/" target="_blank">
-   <img align="center" src="https://dart.dev/assets/shared/dart/icon/64.png" width="40" height="40"/>
-  </a>
-  <a href="https://www.flutter.dev/" target="_blank">
-   <img align="center" src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-   <img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v93aa752e9f55c4cc8215e0e532a81ea927c78afc7539799b3f76c27a68eb319c/firebase/images/favicon.png" width="40" height="40"/>
-  </a> -->
-</p>
-<!--**Omar-Eses/Omar-Eses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
