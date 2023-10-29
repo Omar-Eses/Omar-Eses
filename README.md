@@ -1,7 +1,12 @@
 ## Hi there 👋
 I am <b>Omar Al-Eses</b>, A Computer Science Graduate. Interested in Back-end development, Android development, and Cloud Computing.
 
+<hr/>
+
 ![Omar GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar-Eses&show_icons=true&theme=transparent&border_radius=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eses&show_icons=true&theme=transparent&layout=compact)
+
+
 
 - 🏫 Computer Science Student at **Applied Science University**
 - 🔭 I’m currently working on<br>
