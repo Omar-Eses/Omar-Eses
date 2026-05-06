@@ -1,10 +1,6 @@
 ## Hi there 👋
 I am <b>Omar Al-Eses</b>, a Software engineer.<br> Interested in Full stack using dotnet and nextjs
 
-
-![Omar GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar-Eses&show_icons=true&theme=transparent&border_radius=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Eses&show_icons=true&theme=transparent&layout=compact)<hr/>
-
 📫 Contact me at: 
 <p>
   <a href = "mailto: esesomar01@gmail.com" target="_blank">
